@@ -15,7 +15,7 @@ This will act as my diary. I will dive deep into personal projects, past and pre
 
 I also intend to discuss some interesting machine learning research papers I am reading. In the process, I will implement a few of them.
 
-I recently noticed that I not only need to deploy my models to web but also to mobile. I have never worked on mobile apps before though. To fill this gap, I decided to learn a new programming language- Flutter (for mobile -Both ios and android). Thanks [Edwin](https://twitter.com/edwinbosire) for the motivation. I hope to document the whole journey. I am looking forward to learning and building some interesting and intelligent apps.
+I recently noticed that I not only need to deploy my models to web but also to mobile. I have never worked on mobile apps before though. To fill this gap, I decided to learn Flutter - Google’s Open Source UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Thanks [Edwin](https://twitter.com/edwinbosire) for the motivation. I hope to document the whole journey. I am looking forward to learning and building some interesting and intelligent apps.
 
 Once in a while am going to talk about startups; the ones I tried, those that failed, what worked, what didn't, startups I admire and lessons I have learned so far.
 

@@ -1,16 +1,12 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+Aggrey Bosire:
+  name: Aggrey Bosire
+  picture: https://pbs.twimg.com/profile_images/730508344897720320/JtecWfGR_400x400.jpg
+  twitter: "@aggreybosire"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/aggreybosire
       icon: fab fa-twitter-square
 
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone

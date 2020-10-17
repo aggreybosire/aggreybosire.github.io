@@ -21,7 +21,7 @@ title: "Aggrey Bosire"
 description: "Entrepreneur, Software developer, learning everyday.Python. Machine Learning. Deep Learning"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: "aggreybosire.github.io"
-logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "https://pbs.twimg.com/profile_images/730508344897720320/JtecWfGR_400x400.jpg" 
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
@@ -113,11 +113,8 @@ author:
     - title: Twitter
       url: https://twitter.com/aggreybosire
       icon: fab fa-twitter-square
-    - title: Instagram
-      url: https://instagram.com/mmistakes
-      icon: fab fa-instagram
     - title: GitHub
-      url: https://github.com/mmistakes
+      url: https://github.com/aggreybosire
       icon: fab fa-github-square
 
 # Footer Links
@@ -125,11 +122,8 @@ footer_links:
   - title: Twitter
     url: https://twitter.com/aggreybosire
     icon: fab fa-twitter-square
-  - title: Instagram
-    url: https://instagram.com/mmistakes
-    icon: fab fa-instagram
   - title: GitHub
-    url: https://github.com/mmistakes
+    url: https://github.com/aggreybosire
     icon: fab fa-github-square
   - title: Feed
     url: atom.xml
